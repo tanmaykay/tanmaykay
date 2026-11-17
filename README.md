@@ -26,6 +26,15 @@ flowchart LR
 
 ## What I’m working on
 
+### Vision-language agents for CAD and CAE
+
+I’m building an end-to-end system that uses small vision-language models to automate domain-specific CAD and CAE workflows.
+
+- **Model optimization.** Fine-tuning on domain tasks and distilling capabilities from larger Qwen teacher models. I’m testing weight pruning and quantization to reduce the deployment footprint, with a target of retaining 99% of baseline task quality.
+- **Reliable tool use.** Using reinforcement learning to reward correct tool selection and arguments. I’m also redesigning the tool-call interface to reduce malformed JSON and schema violations from smaller models.
+
+### Other work in progress
+
 - **EV charging models.** Exploring CVAEs, TCNs, and Transformers for charging-curve generation using 10,000+ real sessions. I’m testing quantization against a sub-300 KB target for in-vehicle hardware.
 - **On-prem LLM serving.** Working with quantized Qwen2.5-14B on four V100 GPUs, served through vLLM behind a guardrails proxy. The platform is used by 100+ people.
 - **Multimodal retrieval.** Working on RAG over a 2 TB enterprise document corpus, using Ragas to evaluate retrieval quality and answer accuracy.
