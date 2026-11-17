@@ -56,8 +56,14 @@ Most of the enterprise work is private.
 
 **Agent tooling.** Harness engineering and custom Model Context Protocol (MCP) development.
 
-## Research and contact
+## Research and patents
+
+- **Patent application filed.** *Method and System for Detecting an Anomalous Condition in a Powertrain Subsystem of a Vehicle*. Developed in collaboration with Mercedes-Benz R&D, the work applies a world-model approach to vehicle powertrain anomaly detection.
+- **Under review.** A manuscript is under review at PAKDD.
+- **In preparation.** Preparing first- and second-author manuscripts for planned submissions to IJCAI, ACM e-Energy, ICML, and ECML PKDD.
 
 I co-authored [Accessing the Efficiency of Machine Learning Models for Crop Categorization Based on Regional Attributes in India](https://doi.org/10.1016/j.procs.2025.04.517), published in *Procedia Computer Science* in 2025.
+
+## Contact
 
 I’m open to ML engineering, applied AI, and data science roles where I can take models from evaluation to deployment. Reach me by [email](mailto:writetotanmay@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/tanmaykukreja).
