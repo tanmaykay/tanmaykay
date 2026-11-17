@@ -43,7 +43,7 @@ Most of the enterprise work is private.
 | Area | Tools and technologies |
 | --- | --- |
 | ML and time series | Python, PyTorch, Hugging Face Transformers, NumPy, pandas, CVAEs, TCNs |
-| Inference and deployment | vLLM, SGLang, AirLLM, llm-d, LiteLLM, Kubernetes, ONNX, bitsandbytes, Qwen2.5, llama.rn |
+| Inference and deployment | vLLM, SGLang, AirLLM, llm-d, LiteLLM, LMCache, Kubernetes, ONNX, bitsandbytes, Qwen2.5, llama.rn |
 | Fine-tuning and experiment tracking | PEFT, LoRA, QLoRA, TRL, Unsloth, MLflow, Weights & Biases |
 | Retrieval, agents, and evaluation | FAISS, Milvus, Ragas, LangChain, LangGraph, Gemini, lm-evaluation-harness, DeepEval |
 | Computer vision and multimodal models | YOLOv8, LLaVA, InternVL2 |
@@ -52,7 +52,7 @@ Most of the enterprise work is private.
 | APIs, storage, and infrastructure | FastAPI, PostgreSQL, Redis, Alembic, Docker Compose, Cloudflare R2, Deepgram |
 | Web and mobile | TypeScript, React, Next.js, React Native |
 
-**Serving optimization.** Continuous batching, prefix caching, KV-cache tuning, KV-aware routing, LMCache, prefill/decode disaggregation, and speculative decoding.
+**Serving optimization.** Continuous batching, prefix caching, KV-cache tuning, KV-aware routing, prefill/decode disaggregation, and speculative decoding.
 
 **Agent tooling.** Harness engineering and custom Model Context Protocol (MCP) development.
 
