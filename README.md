@@ -40,9 +40,15 @@ Most of the enterprise work is private.
 
 ## Tools I use
 
-- **Modeling and inference** · Python, PyTorch, vLLM, ONNX, bitsandbytes
-- **Retrieval and evaluation** · FAISS, Milvus, Ragas, LangGraph
-- **Data systems** · PySpark, KQL, Azure Data Explorer, PostgreSQL
+| Area | Stack |
+| --- | --- |
+| ML and time series | Python, PyTorch, NumPy, pandas, CVAEs, TCNs, Transformers |
+| LLM serving and edge inference | vLLM, SGLang, ONNX, bitsandbytes, Qwen2.5, llama.rn |
+| Retrieval, agents, and evaluation | FAISS, Milvus, Ragas, LangChain, LangGraph, Gemini |
+| Computer vision and multimodal models | YOLOv8, LLaVA, InternVL2 |
+| Data engineering and observability | PySpark, KQL, Azure Data Explorer, Azure Synapse, Grafana, PyArrow, Parquet |
+| APIs, storage, and deployment | FastAPI, PostgreSQL, Alembic, Docker Compose, Cloudflare R2, Deepgram |
+| Web and mobile | TypeScript, React, Next.js, React Native |
 
 ## Research and contact
 
