@@ -58,7 +58,7 @@ Most of the enterprise work is private.
 
 ## Research and patents
 
-- **Patent application filed.** *Method and System for Detecting an Anomalous Condition in a Powertrain Subsystem of a Vehicle*. Developed in collaboration with Mercedes-Benz R&D, the work applies a world-model approach to vehicle powertrain anomaly detection.
+- **Patent application filed (No. 202641129185).** *Method and System for Detecting an Anomalous Condition in a Powertrain Subsystem of a Vehicle*. Developed in collaboration with Mercedes-Benz R&D, the work applies a world-model approach to vehicle powertrain anomaly detection.
 - **Under review.** A manuscript is under review at PAKDD.
 - **In preparation.** Preparing first- and second-author manuscripts for planned submissions to IJCAI, ACM e-Energy, ICML, and ECML PKDD.
 
